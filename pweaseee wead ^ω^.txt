@@ -1,0 +1,23 @@
+hiii! //^/W/^//
+
+In the 'Keylogger' folder contains the keylogger files!
+
+Open the folder and there are some files (duh).
+
+The file you will open that executes the keylogger is 'winupdate'. (i named it in a way to avoid being detected as a sus task)
+
+When running, you might encounter a antivirus block preventing you from running the executable. So you click on 'More info' and the button will appear 'Run'!
+
+A terminal window will launch! To stop the keylogger from running, First open Task Manager, then you will see the task 'winupdate'. R_Click and 'End Task'! The task wont automatically renew and run again. The executable can be ran if you ended the task to keep logging!
+
+Ending the task will stop the keylogger from running and then you will notice in the same 'Keylogger' folder a txt (text file) named 'keyloggeroutput.txt'
+
+In that text file contains every letter you typed! If you notice a symbol that appears with a question mark ()
+that means a backspace was logged or a mouse action was done.
+
+PLEASE NOTE I DONT HAVE ACCESS/REMOTE TO THESE LOGS! ALL THAT IS LOGGED IN THE TEXT FILE IS PRIVATE AND ONLY SEEN/VISIBLE TO YOU. IF YOU USE THIS FOR MALICIOUS ACTIONS, I AM NOT RESPONSIBLE OF YOU GETTING IN TROUBLE! THIS IS ONLY USED FOR EDUCATIONAL INTENTIONS AND IM NOT PROMOTING ANY ILLEGAL ACTIVITES. (ITS YOUR PROBLEM IF YOU ARE IN TROUBLE)
+
+THIS IS COMPLETELY SAFE AND NOT MALICIOUS! ^ω^
+
+
+Proof! : https://www.virustotal.com/gui/file/468ff37052a4110bc204bd07899259fd119e107900b8d7e2bf608ff895032f07 (DONT WORRY ABOUT THE KEYLOGGER DETECTION/POSITIVE. THIS IS INTENTIONALY A KEYLOGGER)
